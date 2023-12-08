@@ -1,0 +1,4 @@
+pip
+ultralytics
+opencv
+os
